@@ -1,0 +1,151 @@
+.button input[type="submit"]:hover {
+    border: 1px solid #7ed321;
+    background-color: transparent;
+    color: #7ed321;
+}
+
+.button input[type="submit"] {
+    padding: 15px 35px;
+    display: inline-block;
+    background-color: #7ed321;
+    font-size: 18px;
+    font-weight: 600;
+    color: #fff;
+    transition: all 0.4s;
+    border-radius: 30px;
+    border: 1px solid #7ed321;
+}
+
+.col-md-12.product-list-detail.popular-product.product {
+    display: flex;
+    justify-content: space-between;
+}
+
+.list.product-body {
+    width: 65%;
+}
+
+.popular-product img {
+    max-width: 200px !important;
+}
+
+
+button.flaticon-search {
+    background-color: transparent;
+    border: none;
+}
+
+.round.search-round {
+    position: absolute;
+    padding-top: 1px;
+    top: 12px;
+}
+
+input#searchform-keyword {
+    background-color: white;
+}
+
+.mapouter {
+    position: absolute;
+    right: 317px;
+    /* width: 399px; */
+    top: -9px;
+}
+
+.gmap_canvas {
+    position: absolute;
+    left: 88px;
+}
+
+img.img-circle {
+    max-width: 120px;
+}
+
+#phonesearch-categories_id input[type="checkbox"] {
+    position: relative !important;
+    left: 0 !important;
+}
+
+.overflow-text {
+    width: 100% !important;
+    overflow: hidden !important;
+}
+
+.product {
+    height: 450px;
+}
+
+.product-img {
+    height: 320px;
+}
+
+#progressbar li {
+    width: 33.3% !important;
+}
+
+.special-offer .nav-tabs > li {
+    width: calc(100% / 5);
+}
+
+.special-offer ul.nav-tabs li a {
+    border: none !important;
+}
+
+.special-offer ul.nav-tabs li a:hover {
+    background: transparent !important;
+}
+
+.add-cart-hover {
+    cursor: pointer;
+}
+
+.product-body p {
+    min-height: 75px;
+}
+
+.product-hover {
+    bottom: 25px;
+}
+
+
+.best-seller .product {
+}
+
+.best-seller .product-body {
+    padding-top: 0 !important;
+}
+
+
+.product-list-detail {
+    height: 235px;
+}
+
+.img-responsive {
+    float: left;
+    margin-right: 20px;
+    /* max-width: 100px; */
+}
+
+.cart-tab .cart-tab {
+    background-color: #f5f5f5;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: -2px 7px 12px -11px #888888;
+}
+
+.cart-tab > .product-top-bar > ul > li {
+    margin-right: 20px;
+}
+
+#filter_status {
+    color: #337ab7;
+    border: #6d737b 1px solid !important;
+    border-opacity: 0.1;
+    border-radius: 5%;
+}
+
+
+.product-img img {
+    width: 100%;
+    height: auto;
+}
